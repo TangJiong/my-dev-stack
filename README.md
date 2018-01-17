@@ -1,2 +1,7 @@
-# my-dev-stack
-programming and developing skills and knowledge list of me, including bigdata, backend and frontend
+# 开发技术栈和知识整理
+> 持续更新
+
+
+
+## 基础
+
