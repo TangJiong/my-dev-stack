@@ -9,5 +9,13 @@
 ## 基础
 
 ### 数据结构和基础算法
-* [[Data Structure & Algorithm] 七大查找算法](http://www.cnblogs.com/maybe2030/p/4715035.html#top)
- > 计算机应用中，查找（搜索）是常用的运算。常见查找算法包括：顺序查找、二分查找、插值查找、斐波拉契查找、树表查找、分块查找、哈希查找。重点掌握树表查找、哈希查找。 
+* [[Data Structure & Algorithm] 七大查找算法](http://www.cnblogs.com/maybe2030/p/4715035.html#top)[转载]
+
+  > 计算机应用中，查找（搜索）是常用的运算。常见查找算法包括：顺序查找、二分查找、插值查找、斐波拉契查找、树表查找、分块查找、哈希查找。重点掌握树表查找、哈希查找。 
+
+
+### 项目构建
+
+* [项目构建需要了解的maven基础](./basics/maven-intro.md)[原创]
+
+  > 内容包含理解maven的lifecycle机制、mavem的插件机制、maven的依赖管理和仓库、子模块和代码组织、常用配置
