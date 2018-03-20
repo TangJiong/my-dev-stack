@@ -11,7 +11,7 @@
 ### 数据结构和基础算法
 * [[Data Structure & Algorithm] 七大查找算法](http://www.cnblogs.com/maybe2030/p/4715035.html#top)[转载]
 
-  > 计算机应用中，查找（搜索）是常用的运算。常见查找算法包括：顺序查找、二分查找、插值查找、斐波拉契查找、树表查找、分块查找、哈希查找。重点掌握树表查找、哈希查找。 
+  > 计算机应用中，查找（搜索）是常用的运算。常见查找算法包括：顺序查找、二分查找、插值查找、斐波拉契查找、树表查找、分块查找、哈希查找。重点掌握树表查找、哈希查找。
 
 
 ### 项目构建
@@ -19,3 +19,9 @@
 * [项目构建需要了解的maven基础](./basics/maven-intro.md)[原创]
 
   > 内容包含理解maven的lifecycle机制、mavem的插件机制、maven的依赖管理和仓库、子模块和代码组织、常用配置
+
+## DevOps
+
+### 系统监控与运营
+* [Collecting the right data](https://www.datadoghq.com/blog/monitoring-101-collecting-data/)[转载]
+  > 系列文章，包括[Collecting the right data](https://www.datadoghq.com/blog/monitoring-101-collecting-data/)、[Alerting on what matters](https://www.datadoghq.com/blog/monitoring-101-alerting/)、[Investigating performance issues](https://www.datadoghq.com/blog/monitoring-101-investigation/)。文章不涉及具体的技术选型，重点提出了一种将监控指标分成`work metrics`、`resource metrics`、`events`三个层次的思路，在回答运营监控系统需要什么数据以及怎么用数据去定位问题时，都可以借鉴这种思路。
