@@ -20,6 +20,10 @@
 
   > 内容包含理解maven的lifecycle机制、mavem的插件机制、maven的依赖管理和仓库、子模块和代码组织、常用配置
 
+### 日志
+
+* log4j日志配置，主要有Appenders/Loggers/Filter几种配置，特别注意的是Logger有层级关系的。[官方Reference](https://logging.apache.org/log4j/2.x/manual/configuration.html)
+
 ## DevOps
 
 ### 系统监控与运营
