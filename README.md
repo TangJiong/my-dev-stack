@@ -25,3 +25,8 @@
 ### 系统监控与运营
 * [Collecting the right data](https://www.datadoghq.com/blog/monitoring-101-collecting-data/)[转载]
   > 系列文章，包括[Collecting the right data](https://www.datadoghq.com/blog/monitoring-101-collecting-data/)、[Alerting on what matters](https://www.datadoghq.com/blog/monitoring-101-alerting/)、[Investigating performance issues](https://www.datadoghq.com/blog/monitoring-101-investigation/)。文章不涉及具体的技术选型，重点提出了一种将监控指标分成`work metrics`、`resource metrics`、`events`三个层次的思路，在回答运营监控系统需要什么数据以及怎么用数据去定位问题时，都可以借鉴这种思路。
+
+## 分布式系统
+* 当我们在说分布式系统时，是在说什么 [XMind导图](./distributed_system)
+* 分布式系统的基本抽象模型 [XMind导图](./distributed_system)
+* 内容整理自[http://book.mixu.net/distsys/index.html](Distributed systems for fun and profit)，内容比较浅，适合入门，可以对分布式系统主要关注点和基本模型有个基本的了解，特别是里面讲CAP和Replica/Patition的部分。
